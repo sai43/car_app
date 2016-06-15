@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: Benze
+  year: 2016
+  color: Black
+  wheels: 4
+  doors: 4
+
+two:
+  make: Ferrari
+  year: 2016
+  color: Red
+  wheels: 4
+  doors: 3
